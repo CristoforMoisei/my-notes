@@ -1,6 +1,4 @@
 ---
-title: Welcome to Quartz
+title: APPUNTI DI CRISTOFOR MOISEI
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+SCEGLI COSA STUDIARE:
